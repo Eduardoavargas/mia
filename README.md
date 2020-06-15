@@ -3,7 +3,7 @@
 > A MIA consiste em um chatbot integrado ao whatspp utilizando IA do dialogflow para entendimento das conversas.
 A MIA foi desenvolvida para uso dos caminhoneiros, auxiliando os mesmo em suas rotinas. Tais como traçar rota, informar paradas, antecipar uma parada coso haja congestionamento a frente, marcar consulta médica, acompanhar a saude do caminhoneiro atraves de pulseiras pulseira smartwatch e/ou relogios
 
-![![MIA](http://img.youtube.com/vi/Y0qAh9EfOPI/0.jpg)](http://www.youtube.com/watch?v=Y0qAh9EfOPI "MIA")
+[![MIA](http://img.youtube.com/vi/Y0qAh9EfOPI/0.jpg)](http://www.youtube.com/watch?v=Y0qAh9EfOPI "MIA")
 
 -   Atualmente trabalhar como caminhoneiro é trabalhar com insegurança por medo de assaltos. É trabalhar sem um apoio a sua saúde devido sua vida corrida.
 -   92% dos Caminhoneiros nunca foram assaltados, mas temem o fato. Pois não tem como agir em casos como este sem se colocar em risco
